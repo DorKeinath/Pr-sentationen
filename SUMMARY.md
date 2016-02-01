@@ -1,4 +1,4 @@
-# Summary
+# Inhaltsverzeichnis
 
-* [Introduction](README.md)
+* [Einleitung](README.md)
 

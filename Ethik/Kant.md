@@ -27,7 +27,8 @@ Immanuel Kant (1724–1804)
 
 
 # Fall Baywatch
-## Wen sollte man retten? Wer ist ein Held?
+## Wen sollte man retten?
+## Wer ist ein Held?
 [Mann 1](https://upload.wikimedia.org/wikipedia/commons/d/de/Dolcegab_Sommer2004.jpg)
 
 [Mann 2](http://bc03.rp-online.de/polopoly_fs/eu-commissioner-for-energy-gunther-oettinger-1.3031065.1350293798!httpImage/568842982.jpg_gen/derivatives/dx510/568842982.jpg)

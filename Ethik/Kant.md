@@ -114,7 +114,7 @@ Wie wäre Kants Definition eines Helden? <!-- .element: class="fragment"-->
 
 
 
-## Notiere die im Video behandelten Begriffe und Aspekte
+## Notiere die drei im Video für wichtig erachtete Aspekte der Kantischen Ethik
 # Three Minute Philosophy
 [Three Minute Philosophy - Immanuel Kant ](https://www.youtube.com/watch?v=xwOCmJevigw)
 

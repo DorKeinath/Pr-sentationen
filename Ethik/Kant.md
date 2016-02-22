@@ -1,4 +1,4 @@
-## Moralphilosophie
+## Moralphilosophiee
 Immanuel Kant (1724–1804)
 =====================
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Immanuel_Kant2.jpg/255px-Immanuel_Kant2.jpg)](https://de.wikipedia.org/wiki/Immanuel_Kant)

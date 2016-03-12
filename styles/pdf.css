@@ -70,3 +70,7 @@ ol li:before {
 	color: #04B0DB;
 	margin-left: -15px;
 }
+
+img {
+	max-height: 200px;
+}

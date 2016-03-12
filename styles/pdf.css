@@ -13,12 +13,12 @@ h1, h2, h3, h4 {
 h1 {
 	font-size: 25px;
 /*	line-height: 27px;*/
-color: red;;
-/*	color: #04B0DB;*/
+	color: #04B0DB;
 	margin-top: 0px;
 }
 
 h2 {
+	color: yellow;
 	font-size: 3px;
 /*	margin-bottom: 0px;
 	padding-bottom: 0px;

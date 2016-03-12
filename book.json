@@ -1,6 +1,8 @@
 {
-	"styles": {
-
-        "pdf": "styles/pdf.css"
+{
+    "plugins": ["styles-less"],
+    "styles": {
+        "pdf": "./styles/pdf.less"
     }
+}
 }

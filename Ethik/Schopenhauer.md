@@ -1,4 +1,4 @@
-# Brezel-Dilemma
+# Brezel-Dilemma seeeeeedf
 
 Du findest dich nach einem anstrengenden Tag, an dessen Ende man sich eine Butterbrezel gönnt, zwei abgehungerten Kindern gegenüber, das eine bettelt mit großen tränenden Augen, das andere sitzt hinten an der Wand.
 
@@ -21,3 +21,27 @@ Du findest dich nach einem anstrengenden Tag, an dessen Ende man sich eine Butte
 | Instinktiv | Bewusst|
 | Aus Affekt | Mit Verstand|
 | Unmittelbar | Mittelbar|
+
+Schopenhauers Ethik beruht auf Identifikation und Reflexion.
+
+
+
+## Schopenhauers Mitleidsethik
+# Fälle zur kritischen Diskussion
+
+1. Was sagt Schopenhauer zu einer Person, die bei einem Verkehrsunfall angehalten hat, um zu helfen?
+2. Wer von euch hat schonmal einem Obdachlosen in Karlsruhe Geld in seinen Hut geworfen?
+
+
+
+## Schopenhauers Mitleidsethik
+# Fragen zur kritischen Diskussion
+
+1. Erörtern Sie die konzeptionelle Nähe Schopenhauers Ethik zur Folgen- und Gesinnungsethik.
+1. Ist Schopenhauers These der Normativität des Leidens äquivalent zur Gleichsetzung einer guten mit einer mitleidsvollen Tat?
+1. Untersuchen Sie Schopenhauers Leitprinzipien unter kantischen Gesichtspunkten
+
+> Schade niemandem!
+
+> Hilf allen, wo du kannst!
+

@@ -25,7 +25,7 @@ Immanuel Kant (1724–1804)
 
 (Berlinische Monatsschrift 1782) <!-- .element: class="rechts" -->
 
-##Warum ist es schwer, mündig zu werden? <!-- .element: class="fragment" -->
+Warum ist es schwer, mündig zu werden? <!-- .element: class="frage" -->
 * Unwissenheit über die vorhandene Bevormundung <!-- .element: class="fragment" -->
 * Faulheit, Trägheit, Gewohnheit <!-- .element: class="fragment" -->
 

@@ -1,4 +1,4 @@
-# Brezel-Dilemma seeeeeedf
+# Brezel-Dilemma
 
 Du findest dich nach einem anstrengenden Tag, an dessen Ende man sich eine Butterbrezel gönnt, zwei abgehungerten Kindern gegenüber, das eine bettelt mit großen tränenden Augen, das andere sitzt hinten an der Wand.
 

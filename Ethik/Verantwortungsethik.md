@@ -92,7 +92,7 @@ Welche Assoziationen ruft dieses Plakat bei Ihnen hervor?  <!-- .element: class=
 
 ## Moralphilosophie
 # Staatsgrenzen
-Exzerpieren Sie die Positionen für und gegen das Schließen der Blakanroute. <!-- .element: class="frage" -->
+Exzerpieren Sie die Positionen für und gegen das Schließen der Balkanroute. <!-- .element: class="frage" -->
 
 Untersuchen Sie die Positionen hinsichtlich ihrer moralischen Argumentationen. <!-- .element: class="frage" -->
 
@@ -101,6 +101,8 @@ Erläutern Sie in welchem Verhältnis die jeweilige Position zu den bereits beha
 Gestalten Sie jeweils zu dritt oder viert zu Ihren Ergebnissen ein Plakat. <!-- .element: class="frage" -->
 
 Beurteilen Sie das Wahlplakat der Alfa hinsichtlich ihres moralischen und politischen Gehaltes. <!-- .element: class="frage fragment" -->
+
+Diskutieren Sie die Relevanz von individueller und institutioneller Verantwortung für die Flüchtlingsproblematik. <!-- .element: class="frage fragment" -->
 
 
 
@@ -143,10 +145,63 @@ Sollen die Schützen verurteilt werden? <!-- .element: class="frage" -->
 
 
 
+## Technikethik
+# Hans Jonas (1903-1993)
+*Zum Textauszug aus "Warum Technik ein Gegenstand für die Ethik ist."*
 
-# Bemerkungen zum Verantwortungsbegriff
-* Verantwortungsbegriff als zentraler Begriff in Diskussionen zu Globalisierungsproblemen.
+In welchem Verhältnis steht die Technik zum Mensch?  <!-- .element: class="frage" -->
+
+Stellen Sie Hans Jonas' Plädoyer für die Notwendigkeit der Technikfolgenabschätzung als Syllogismus dar.  <!-- .element: class="frage" -->
+
+P1: Technik = Macht = Form des Handelns <!-- .element: class="fragment" -->
+
+P2: Handlungen = Moralische Handlungen $\Rightarrow$ Handlungen müssen moralisch geprüft werden. <!-- .element: class="fragment" -->
+
+C: Handlungen im Bereich Technik müssen moralisch bewertet werden. <!-- .element: class="fragment" -->
+
+Nennen Sie die von Hans Jonas analysierten Aspekte der Technik.   <!-- .element: class="frage" -->
+
+* Technik ist eine Form gesteigerter menschlicher Macht. Moderner Begriff: Human Enhancement. <!-- .element: class="fragment" -->
+* Ambivalenz der Wirkung. Technik eignet sich zum Guten sowie zum Schlechten. <!-- .element: class="fragment" -->
+* Expansionspotential der Technik. <!-- .element: class="fragment" -->
+	+ Globaler Wirkungsbereich: Ort und Zeit. <!-- .element: class="fragment" -->
+	+ Großgebrauch, Massenproduktion. <!-- .element: class="fragment" -->
+* Durch Technik entstehen globale moralische Probleme mit apokalyptischem Potential, deren Lösung nicht trivial ist. <!-- .element: class="fragment" -->
+
+
+
+## Technikethik
+# Hans Jonas' neuer Imperativ
+*Zum Textauszug aus "Das Prinzip Verantwortung". *
+
+Erläutern Sie Hans Jonas' Lösungsansatz für die durch Technik entstehenden Probleme.  <!-- .element: class="frage" -->
+
+> Handle so, dass die Wirkungen deiner Handlung verträglich sind mit der Permanenz echten menschlichen Lebens auf Erden!
+
+> Schließe in deine gegenwärtige Wahl die zukünftige Integrität des Menschen als Mit-Gegenstand deines Wollens ein!
+
+
+
+## Individuelle vs. institutionelle Verantwortung
+# Klings Känguruh-Ethik
+*Audio "Aufklärung" aus Marc-Uwe Kling: Die Känguru Offenbarung. *
+
+> Wollen wir beide hier und heute damit anfangen?
+
+3:50  <!-- .element: class="rechts" -->
+
+Diskutieren Sie die Relevanz von individueller und institutioneller Verantwortung, z. B. in Bezug auf den Coltan-Abbau für die Handyproduktion.   <!-- .element: class="frage" -->
+
+Diskutieren Sie Hans Jonas' Priorisierung der Bewahrung vor dem Fortschritt. (Letzer Abschnitt im Auszug aus "Das Prinzip Verantwortung".)    <!-- .element: class="frage" -->
+
+
+
+## Bemerkungen zum Verantwortungsbegriff
+# Das Angst-Phänomen
+* Verantwortungsbegriff ist ein zentraler Begriff in Diskussionen von Globalisierungsproblemen.
 * Bei jedem Verantwortungsethiker ist sein Bezug zur deontologischen, utilitaristischen und Mitleidsethik zu klären.
+
+Erläutern Sie die Problematik des Phänomens der Angst für eine Verantwortungsethik.    <!-- .element: class="frage" -->
 
 > Egal wie herum man es wendet, egal wie widersprüchlich es ist, am Ende gibt es Opfer immer nur auf der eigenen Seite. Den Grund dafür kennt schon Aristoteles: „Die, die vor Angst außer sich sind, empfinden kein Mitleid, weil sie auf die eigene Emotion gerichtet sind.“ Es ist die Angst, die ihn für größere Zusammenhänge macht. Sie wirft die Menschen zurück auf sich und verweist Mitleid und Empathie in die zweite oder dritte Reihe.
 

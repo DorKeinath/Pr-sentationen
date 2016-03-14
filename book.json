@@ -1,7 +1,8 @@
 {
 {
     "styles": {
-        "pdf": "./styles/pdf.css"
+        "pdf": "./styles/pdf.css",
+		"website": "./styles/website.css"
     }
 }
 }

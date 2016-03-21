@@ -203,7 +203,7 @@ Xenien S. 743, Schulbuch S. 169 <!-- .element: class="rechts" -->
 
 
 
-
+<!--
 # ​Kants 3. Antinomie
 ###These 
 > "Die Kausalität nach Gesetzen der Natur ist nicht die einzige,
@@ -241,3 +241,4 @@ Xenien S. 743, Schulbuch S. 169 <!-- .element: class="rechts" -->
 # Lösung?
 * Freiheit ist denkbar und damit nicht widerlegt, aber auch nicht bewiesen. 
 * Kausalität (Gerade) und Freiheit (Halbgerade) in zwei Dimensionen (zeitlich, unzeitlich), die nicht zusammengeführt werden. Der Wid. In der These verweist auf die intellegible Welt. 
+-->

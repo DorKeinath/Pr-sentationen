@@ -1,6 +1,6 @@
 # Brezel-Dilemma
 
-Du findest dich nach einem anstrengenden Tag, an dessen Ende man sich eine Butterbrezel gönnt, zwei abgehungerten Kindern gegenüber, das eine bettelt mit großen tränenden Augen, das andere sitzt hinten an der Wand.
+Du findest dich nach einem anstrengenden Tag, an dessen Ende du dir eine Butterbrezel gönnst, zwei abgehungerten Kindern gegenüber, das eine bettelt mit großen tränenden Augen, das andere sitzt hinten an der Wand.
 
 [![](http://gebende-haende.de/fileadmin/images/projects/aethiopien/feb2013/startpage.png)](http://gebende-haende.de/p3.html) <!-- .element: class="fragment" -->
 
@@ -30,7 +30,8 @@ Schopenhauers Ethik beruht auf Identifikation und Reflexion.
 # Fälle zur kritischen Diskussion
 
 1. Was sagt Schopenhauer zu einer Person, die bei einem Verkehrsunfall angehalten hat, um zu helfen?
-2. Wer von euch hat schonmal einem Obdachlosen in Karlsruhe Geld in seinen Hut geworfen?
+2. Wer von euch hat schon einmal Geld in den Hut eines Obdachlosen geworfen? Warum?
+3. Sollte man das europäische Leitungswasser mit dem "Kuschelhormon" Oxytocin anreichern? <!-- Es fördert Mitleid in der Nähe aber verstärkt Abgrenzungen zu Nichtgruppenmitgliedern. -->
 
 
 

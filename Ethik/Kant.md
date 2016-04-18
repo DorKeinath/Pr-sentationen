@@ -93,7 +93,7 @@ Marc Beise <!-- .element: class="rechts"-->
 
 [Frau 2](http://lesoufflecestmavie.e.l.f.unblog.fr/files/2012/11/angela-merkel971265propertyposter.jpg)
 
-## Gesinnungsethik vs. Folgenethik <!-- .element: class="fragment"-->
+### Gesinnungsethik vs. Folgenethik <!-- .element: class="fragment"-->
 Held =? Person, die jemanden gerettet hat. <!-- .element: class="fragment"-->
 * Utilitarismus: Ja, da die Summe des Glücks vermehrt wurde. <!-- .element: class="fragment"-->
 * Kant: Nein, da die rettende Person evtl. aus Neigung gerettet hat. <!-- .element: class="fragment"-->
@@ -140,8 +140,8 @@ Xenien S. 743, Schulbuch S. 169 <!-- .element: class="rechts" -->
 
 
 
-#  Maxime, HI, KI
-##  Maxime
+##  Maxime, HI, KI
+#  Maxime
 * Subjektive Lebensregel 
 	+ Einzelner 
 	+ Von Gruppen 
@@ -152,8 +152,8 @@ Xenien S. 743, Schulbuch S. 169 <!-- .element: class="rechts" -->
 
 
 
-#  Maxime, HI, KI
-## Hypothetischer Imperativ (HI)
+##  Maxime, HI, KI
+# Hypothetischer Imperativ (HI)
 * Hypothese = Vorweg-Annahme 
 * Unter der Annahme des Ziels: Gebot von allen akzeptiert
 * Können Neigungen bedienen
@@ -162,8 +162,8 @@ Xenien S. 743, Schulbuch S. 169 <!-- .element: class="rechts" -->
 
 
 
-#  Maxime, HI, KI
-## Kategorischer Imperativ (KI)
+##  Maxime, HI, KI
+# Kategorischer Imperativ (KI)
 * Überall und jederzeit gültig
 * Ohne Erwägung der Folgen => Ohne Einbeziehung besonderer Bedinungen => Ohne Einb. der Neigung
 * Rein formal, rein vernunftmäßig, betrachtet nur die Form der Handlung

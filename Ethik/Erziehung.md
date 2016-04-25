@@ -113,7 +113,7 @@ Max Scheler <!-- .element: class="rechts" -->
 
 > Kleine Jungs brauchen starke Männer
 
-Wolfgang Bergmann "Kleine Jungs große Not. Wie wir ihnen Halt geben."  <!-- .element: class="rechts" -->
+[Wolfgang Bergmann "Kleine Jungs große Not. Wie wir ihnen Halt geben." (2008)](http://www.beltz.de/sachbuch_ratgeber/buecher/produkt_produktdetails/7494-kleine_jungs_grosse_not.html) <!-- .element: class="rechts" -->
 
 Bearbeiten Sie den Textauszug aus Bergmanns Werk. <!-- .element: class="frage" -->
 
@@ -123,3 +123,39 @@ Bearbeiten Sie den Textauszug aus Bergmanns Werk. <!-- .element: class="frage" -
 * Was ist mit dem "Angebot zur Regression" gemeint?
 * Was können die Eltern tun, um zu helfen?
 * Welche Rolle spielt die Digitale Welt?
+* Welche Text-Passagen sind Ihnen positiv oder negativ aufgefallen?
+
+
+
+## Erziehung
+# Mobbing  <!-- .element: class="fragment" data-fragment-index="1" -->
+
+Was ist für Sechstklässler am schlimmsten? <!-- .element: class="frage" -->
+
+Was ist Mobbing und wie kommt es dazu? <!-- .element: class="frage fragment"  data-fragment-index="1" -->
+
+Warum ist Mobbing schlecht?  <!-- .element: class="frage fragment" data-fragment-index="1"-->
+
+Nennen Sie funktionierende und nicht funktionierende Ansätze zur Mobbing-Prävention. <!-- .element: class="frage fragment" data-fragment-index="1"-->
+
+Lesen Sie den Auszug des Textes von <!-- .element: class="frage fragment" data-fragment-index="2"--> [Michael von Grundherr](http://www.deletaphi.de/deletaphi0.php?dnr=2229). <!-- .element: class=" fragment" data-fragment-index="2"-->
+
+* Erläutern Sie Grundherrs Aussagen anhand des unserem Ethik-Unterricht zugrunde liegenden <!-- .element: class="fragment" data-fragment-index="2"--> [Prozesses zur Urteilsbildung](http://lehrerfortbildung-bw.de/faecher/ethik/gym/fb1/).  <!-- .element: class="fragment" data-fragment-index="2" -->
+* Wie hoch schätzen Sie die Auswirkung von Ethik-Unterricht in dieser Hinsicht ein?  <!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+
+## Erziehung und das Phänomen der Macht
+# Jesper Juul
+
+Was ist Ihnen wichtig? Was erhoffen Sie sich von der Zukunft? <!-- .element: class="frage" -->
+
+Lesen Sie den Auszug des Textes von <!-- .element: class="frage" --> [Jesper Juul](https://www.herder.de/leben-shop/aus-erziehung-wird-beziehung-taschenbuch/c-28/p-367/). 
+* Welche Probleme der Gesellschaft nimmt Juul wahr? <!-- Fehlender Charakter, leicht manipulierbare Personen -->
+* Nennen Sie die im Text genannten Aspekte guter Erziehung. <!-- Gespräch, Vokabular, "man" -->
+* Möchte Juul, dass Kinder gleich viel Macht haben wie ihre Eltern?
+* Bezüglich welcher Machtausübung appelliert Juul an die Eltern?
+* Erläutern Sie Juuls Gedanken bei einer typischen Situation auf dem Spielplatz.
+* Was schreibt Juul zum Phänomen der Aggression?
+
+Sollte ein Kind jeden Abend um 21 Uhr ins Bett gehen? <!-- .element: class="frage" -->

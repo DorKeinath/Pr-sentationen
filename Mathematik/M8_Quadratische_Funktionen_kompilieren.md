@@ -56,7 +56,8 @@ Schnittpunkte mit der x-Achse kann man auf verschiedenen Wegen berechnen.
 * **2. Scheitel > Normal:** Binomi
 	* Bei vorhandenem Streckungsfaktor die Klammer nicht vergessen!
 * **3. Normal > Produkt:** Nullstellen berechnen (MF) + Streckungsfaktor ablesen
-	* Es gibt nur eine Produktform, wenn es eine Nullstelle gibt.
+	* Ohne Nullstelle kann es natürlich keine Produktform geben.
+	* Bei nur einer Nullstelle, zählt sie doppelt. Man schreibt den Faktor zwei Mal.
 
 
 

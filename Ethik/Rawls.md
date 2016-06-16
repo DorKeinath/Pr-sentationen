@@ -3,7 +3,8 @@
 
 
 ## Bedingungen von Reichtum
-Was führt zu Reichtum?
+
+Was führt zu Reichtum? <!-- .element: class="frage"-->
 
 * Einkommen
   * Gehalt
@@ -13,7 +14,7 @@ Was führt zu Reichtum?
 * Zinsen
 * Sozialwesen
 
-Wie viel verdient wer?
+Wie viel verdient wer? <!-- .element: class="frage"-->
 *Liste mit Berufen*
 
 
@@ -22,7 +23,7 @@ Wie viel verdient wer?
 # Rawls
 *HO *
 
-Was versteht er unter ...
+Was versteht er unter ... <!-- .element: class="frage"-->
 
 
 
@@ -35,29 +36,30 @@ Schichten
 3. Unterschicht. Aufstocker (Arbeitnehmer, der so wenig verdient, dass er zusätzliches Geld vom Staat erhält)
 
 * Verdeutlichung der Öffnung der Schere zwischen Arm und Reich durch Simulation von Finanzen und Bildung über 30 Jahre in unserem politischen System der Umverteilung. 10 % der Schüler bekommt 3/4 der Summe des Taschengeldes aller Schüler als Spielgeld. Alle verwalten das Geld für ein Kind. Zinsen, Betreuungsgeld, kaputte Waschmaschine, Schulsysteme, Studium. 40% können keine Rücklagen bilden.  *
-(Quelle: Marcel Fratzscher)
+(Quelle: Marcel Fratzscher) <!-- .element: class="rechts"-->
 
 
 
 ## Geld & Gesellschaft
 # Morgen
 
-Verteilt die Gehälter gerecht.
+Verteilt die Gehälter gerecht. <!-- .element: class="frage"-->
 
-Entwickelt ein Zukunftskonzept, das die Bedingungen für Reichtum so optimiert, dass ihr in jeder Schicht glücklich werden würdet. 
+Entwickelt ein Zukunftskonzept, das die Bedingungen für Reichtum so optimiert, dass ihr in jeder Schicht glücklich werden würdet.  <!-- .element: class="frage"-->
 
 *Als Exkurs ein HO zum Kommunismus*
-* Sollte jeder dieselbe Note kriegen?
-* Sollte jeder dasselbe Gehalt bekommen?
-* Wie sollten Gehälter verteilt sein?
+Sollte jeder dieselbe Note kriegen?<!-- .element: class="frage"-->
+Sollte jeder dasselbe Gehalt bekommen?<!-- .element: class="frage"-->
+Wie sollten Gehälter verteilt sein? <!-- .element: class="frage"-->
 
 > Der Staat hat dafür Sorge zu tragen, dass jeder mit seiner Kraft und seinen Möglichkeiten für sich selbst sorgen kann
-(Ludwig Erhard, Vater der sozialen Marktwirtschaft)
 
-Welche Ideen sind paternalistisch, welche nicht?
+(Ludwig Erhard, Vater der sozialen Marktwirtschaft) <!-- .element: class="rechts"-->
 
-Bewertet Rawls' Konzept.
-Welches Gerechtigkeitskonzept trifft auf ihn zu?
+Welche Ideen sind paternalistisch, welche nicht? <!-- .element: class="frage"-->
+
+Bewertet Rawls' Konzept. <!-- .element: class="frage"-->
+Welches Gerechtigkeitskonzept trifft auf ihn zu?<!-- .element: class="frage"-->
 > Jedem das Gleiche
 > Jedem ...
 

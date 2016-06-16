@@ -1,8 +1,10 @@
-Präsentationen von DorKeinath
+Präsentationen
 =======
 
-Präsentationen zu ethischen Themen.
+Präsentationen, die ich als <a href="http://xcosx.de/mgb/slides.php">Slides</a> im Unterricht verwendet habe.
 
-Ich hoffe auf Kommentare, Verbesserungsvorschläge und Mitarbeit.
+Die Präsentationen im Fach Ethik können von SchülerInnen für ihre Klausurvorbereitung  oder Unterrichtsnachbereitung verwendet werden, quasi wie Tafelaufschriebe.
 
-Die Präsentationen können auch als <a href="http://xcosx.de/mgb/slides.php">Slides</a> aufgerufen werden.
+Bezüglich der Erstellung der Inhalte hoffe ich auf Kommentare, Verbesserungsvorschläge von und Zusammenarbeit mit Ethik-Kollegen.
+
+

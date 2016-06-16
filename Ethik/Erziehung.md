@@ -159,3 +159,14 @@ Lesen Sie den Auszug des Textes von <!-- .element: class="frage" --> [Jesper Juu
 * Was schreibt Juul zum Phänomen der Aggression?
 
 Sollte ein Kind jeden Abend um 21 Uhr ins Bett gehen? <!-- .element: class="frage" -->
+
+
+
+## Exkurs zum Fall Böhmermann
+### Gedicht
+[http://www.dailymotion.com/video/x44yyms](http://www.dailymotion.com/video/x44yyms)
+
+[Reaktionen-Newsticker](http://www.rosenheim24.de/politik/news-ticker-merkel-gibt-erklaerung-causa-boehmermann-zr-6313228.html)
+
+### Lied
+[http://www.dailymotion.com/video/x40xr6x](http://www.dailymotion.com/video/x40xr6x)

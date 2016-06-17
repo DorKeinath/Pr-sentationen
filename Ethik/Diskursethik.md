@@ -187,9 +187,8 @@ Recherchieren Sie Informationen zu einer Nachrichtenagentur oder einem Medienkon
   * Trt
   * Hürriyet
 * Kurdisch
-  * ANF
-  * Firat haber
-  * YPJ
+  * [ANF](https://de.wikipedia.org/wiki/Firatnews_Agency)
+  * [kurdischenachrichten.com](http://kurdischenachrichten.com)
 * Deutsch
   * ARD
   * ZDF
@@ -200,10 +199,10 @@ Recherchieren Sie Informationen zu einer Nachrichtenagentur oder einem Medienkon
   * n-tv
   * [Der Spiegel](https://de.wikipedia.org/wiki/Der_Spiegel)
   * Focus
-  * [stern](https://de.wikipedia.org/wiki/Stern_(Zeitschrift) )
+  * [stern](https://de.wikipedia.org/wiki/Stern_(Zeitschrift))
   * bpb
 * Englisch
   * CNN
   * BBC
 * Chinesisch
-  * CNC
+  * [CNC](https://de.wikipedia.org/wiki/Xinhua)

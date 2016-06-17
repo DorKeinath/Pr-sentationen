@@ -147,12 +147,63 @@ http://www.ardmediathek.de/tv/Tagesthemen/tagesthemen/Das-Erste/Video?bcastId=39
 
 PS [Demo der Aleviten](http://www.ardmediathek.de/tv/Aktuelle-Stunde/Proteste-gegen-Erdogan/WDR-Fernsehen/Video?bcastId=7293524&documentId=33542754)
 
+
+
 ## Diskursethik
 # Glaubwürdigkeit
+Recherchieren Sie Informationen zu einer Nachrichtenagentur oder einem Medienkonzern bzw. einer Zeitung
+* Finanzierung
+* Geschichtliches
+* Zielsetzung
+
 
 ### Nachrichtenagenturen
-### Zeitungen und Medienkonzerne
-* Türkei
-  * AA
-* Deutschland
-  * ADN 
+[Quelle](https://de.wikipedia.org/wiki/Liste_der_Nachrichtenagenturen) 
+* Türkisch
+  * AA (anadolu agency)
+* Deutsch
+  * ADN
+  * apn
+  * Dow Jones
+  * [dpa](https://de.wikipedia.org/wiki/Deutsche_Presse-Agentur)
+  * dpa-AFX
+  * dts
+  * DÜD
+  * epd
+  * idea
+  * KNA
+  * SAD
+  * sid
+  * TS
+  * WNORG
+* Kurdisch
+  * PNA
+
+### Wichtige Zeitungen, Zeitschriften und Medienkonzerne
+* Türkisch
+  * Vatan
+  * Milliyet
+  * Sabah
+  * Trt
+  * Hürriyet
+* Kurdisch
+  * ANF
+  * Firat haber
+  * YPJ
+* Deutsch
+  * ARD
+  * ZDF
+  * [Deutschlandfunk](https://de.wikipedia.org/wiki/Deutschlandfunk)
+  * arte
+  * [Die Zeit](https://de.wikipedia.org/wiki/Die_Zeit)
+  * N24
+  * n-tv
+  * [Der Spiegel](https://de.wikipedia.org/wiki/Der_Spiegel)
+  * Focus
+  * [stern](https://de.wikipedia.org/wiki/Stern_(Zeitschrift) )
+  * bpb
+* Englisch
+  * CNN
+  * BBC
+* Chinesisch
+  * CNC

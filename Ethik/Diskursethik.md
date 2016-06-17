@@ -146,3 +146,13 @@ http://www.ardmediathek.de/tv/Tagesthemen/tagesthemen/Das-Erste/Video?bcastId=39
 * 13.6.16 Cem Özdemir [4min43](http://www.ardmediathek.de/tv/Morgenmagazin/Gr%C3%BCnen-Chef-Keine-t%C3%BCrkische-EU-Mitglied/Das-Erste/Video?bcastId=435054&documentId=35945984)
 
 PS [Demo der Aleviten](http://www.ardmediathek.de/tv/Aktuelle-Stunde/Proteste-gegen-Erdogan/WDR-Fernsehen/Video?bcastId=7293524&documentId=33542754)
+
+## Diskursethik
+# Glaubwürdigkeit
+
+### Nachrichtenagenturen
+### Zeitungen und Medienkonzerne
+* Türkei
+  * AA
+* Deutschland
+  * ADN 

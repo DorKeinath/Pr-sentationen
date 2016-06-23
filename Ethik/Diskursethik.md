@@ -56,21 +56,11 @@ Schildern Sie einen (typischen) Fall, in dem die Kommunikation (oft) schief ging
 * Lehrer zu Schüler: "Wo kommst du denn her?!" <!-- .element: class="fragment" -->
 * Schüler zu Lehrer: "Ihre Arbeit war viel zu schwer!" <!-- .element: class="fragment" -->
 
-Formulieren Sie die vier unterschiedlichen Schnäbel in vier unterschiedlichen Sätzen. <!-- .element: class="frage" -->
+Formulieren Sie jeweils die vier unterschiedlichen Schnäbel in vier unterschiedlichen Sätzen. <!-- .element: class="frage" -->
 
 ### Ohren-Probleme
 
 Welche Probleme ergeben sich jeweils, wenn eine Person auf nur einem Ohr hört? <!-- .element: class="frage" -->
-
-
-
-## Diskursethik
-# Ich-Botschaft
-Ausdrücken
-1. was man sieht (objektives Faktum),
-2. wie es einem dabei geht (Gefühl),
-3. einen Wunsch ausdrücken, und
-4. ihn gegebenenfalls begründen.
 
 
 
@@ -95,39 +85,17 @@ Ausdrücken
 
 
 ## Diskursethik
-# Gewaltfreie Kommunikation
-
-### Wolfssprache vs. Giraffensprache
-
-Wolfssprache | Giraffensprache
----|---
-Suche nach Schuld | Trennung von beobachten und bewerten
-Bestehen auf Obrigkeitshörigkeit | Toleranz zeigen
-Kritik | Verantwortung tragen
-Bewerten | Bedürfnisse erkennen
-Drohen |
-
-Marshall Rosenberg: Gewaltfreie Kommunikation <!-- .element: class="rechts" -->
-
-### HAIFA
-* Hol Luft
-* Akzeptiere
-* Interesse zeigen
-* Fehler zugeben
-* Angebot machen
-
-
-
-## Diskursethik
 # Übung aus dem NLP
 Neuro-Linguistisches Programmieren: Methoden zur Veränderung psychischer Abläufe.
 
 Gehen Sie mit einer zweiten Person zusammen an einen ungestörten Ort und führen Sie die im Handout erläuterten Schritte durch. <!-- .element: class="frage" -->
 
+Bewerten Sie die durchgeführte Übung <!-- .element: class="frage fragment" -->
+
 
 
 ## Diskursethik
-# Anwendung
+# Anwendung auf eine politische Diskussion
 
 Betrachte die Kommunikation der Politiker beim Thema Völkermord an den Armeniern unter den Aspekten der behandelten Kommunikationsmodelle.<!-- .element: class="frage" -->
 
@@ -150,15 +118,84 @@ PS [Demo der Aleviten](http://www.ardmediathek.de/tv/Aktuelle-Stunde/Proteste-ge
 
 
 ## Diskursethik
+# Umgang mit Ärger
+
+### HAIFA
+* Hol Luft
+* Akzeptiere
+* Interesse zeigen
+* Fehler zugeben
+* Angebot machen
+
+### Ich-Botschaft
+Ausdrücken
+1. was man sieht (objektives Faktum),
+2. wie es einem dabei geht (Gefühl),
+3. einen Wunsch ausdrücken, und
+4. ihn gegebenenfalls begründen.
+
+Formulieren Sie Ich-Botschaften, die die obigen Politiker hätten verwenden können. <!-- .element: class="frage" -->
+
+
+
+## Diskursethik
+# Gewaltfreie Kommunikation
+
+### Wolfssprache vs. Giraffensprache
+
+Wolfssprache | Giraffensprache
+---|---
+Suche nach Schuld | Trennung von beobachten und bewerten
+Bestehen auf Obrigkeitshörigkeit | Toleranz zeigen
+Kritik | Verantwortung tragen
+Bewerten | Bedürfnisse erkennen
+Drohen | Argumentieren
+
+Marshall Rosenberg: Gewaltfreie Kommunikation <!-- .element: class="rechts" -->
+
+Formulieren Sie Sätze in der Giraffensprache, die die obigen Politiker hätten verwenden können. <!-- .element: class="frage" -->
+
+
+
+## Diskursethik
+# Habermas: Eilende Person
+
+Geben Sie Habermas' Erkenntnisse aus seiner Reflexion auf eine eilende Person wieder. <!-- .element: class="frage" -->
+
+Erläutern Sie Habermas' Feststellung, dass die nichtsprachliche Tätigkeit den Einblick in die Handlungsintention keineswegs selbst anbietet. (Z. 14f)<!-- .element: class="frage" -->
+
+Definieren Sie den Begriff der Kommunikation im Sinne Habermas'. (Z. 17f) <!-- .element: class="frage" -->
+
+Wie gelingt nach Habermas das Verständnis einer Handlungsintention? (Z. 20f) <!-- .element: class="frage" -->
+
+
+
+## Diskursethik
+# Habermas: Bankräuber
+
+Nennen Sie Aspekte eines klassischen Banküberfalls. <!-- .element: class="frage" -->
+
+Kontrastieren Sie die Überfälle der Filmsequenzen aus "American Outlaws" mit diesen Aspekten.  <!-- .element: class="frage" -->
+
+Erläutern Sie mit Hilfe der Filmauschnitten aus "American Outlaws" die folgende These Habermas'. <!-- .element: class="frage" -->
+
+> In Zusammenhängen manifest-strategischen Handelns werden intersubjektive Geltungsansprüche ausgehöhlt. Die Voraussetzung einer Orientierung an Geltungsansprüchen ist suspendiert.
+
+Vergleichen <!-- .element: class="frage" -->Sie die Kommunikationsbegriffe von  Habermas und [Jasper](Diskursethik.html#/1). 
+
+
+
+## Diskursethik
 # Glaubwürdigkeit
-Recherchieren Sie Informationen zu einer Nachrichtenagentur oder einem Medienkonzern bzw. einer Zeitung
-* Finanzierung
+Recherchieren Sie Informationen zu einer Nachrichtenagentur oder einem Medienkonzern bzw. einer Zeitung <!-- .element: class="frage" -->
+
 * Geschichtliches
-* Zielsetzung
+* Finanzierung
+* Profil, Zielsetzung
+
 
 
 ### Nachrichtenagenturen
-[Quelle](https://de.wikipedia.org/wiki/Liste_der_Nachrichtenagenturen) 
 * Türkisch
   * AA (anadolu agency)
 * Deutsch
@@ -168,41 +205,47 @@ Recherchieren Sie Informationen zu einer Nachrichtenagentur oder einem Medienkon
   * [dpa](https://de.wikipedia.org/wiki/Deutsche_Presse-Agentur)
   * dpa-AFX
   * dts
-  * DÜD
   * epd
   * idea
   * KNA
-  * SAD
   * sid
   * TS
-  * WNORG
 * Kurdisch
   * PNA
+  
+[Quelle](https://de.wikipedia.org/wiki/Liste_der_Nachrichtenagenturen)<!-- .element: class="rechts" -->  
 
-### Wichtige Zeitungen, Zeitschriften und Medienkonzerne
-* Türkisch
-  * Vatan
+
+
+
+### Zeitungen, Zeitschriften und Medienkonzerne
+* [Türkisch](https://de.wikipedia.org/wiki/Liste_t%C3%BCrkischer_Zeitungen)
+  * Hürriyet [Hürriyet Daily News](http://www.hurriyetdailynews.com/)
+  * Zaman
   * Milliyet
   * Sabah
-  * Trt
-  * Hürriyet
+  * Vatan
+  * IMC
 * Kurdisch
   * [ANF](https://de.wikipedia.org/wiki/Firatnews_Agency)
+  * Azadiya Welat
   * [kurdischenachrichten.com](http://kurdischenachrichten.com)
+* Englisch
+  * CNN
+  * BBC
+* Chinesisch
+  * [CNC](https://de.wikipedia.org/wiki/Xinhua)
+
+
+
+### Zeitungen, Zeitschriften und Medienkonzerne
 * Deutsch
   * ARD
   * ZDF
   * [Deutschlandfunk](https://de.wikipedia.org/wiki/Deutschlandfunk)
   * arte
   * [Die Zeit](https://de.wikipedia.org/wiki/Die_Zeit)
-  * N24
-  * n-tv
   * [Der Spiegel](https://de.wikipedia.org/wiki/Der_Spiegel)
   * Focus
-  * [stern](https://de.wikipedia.org/wiki/Stern_(Zeitschrift))
   * bpb
-* Englisch
-  * CNN
-  * BBC
-* Chinesisch
-  * [CNC](https://de.wikipedia.org/wiki/Xinhua)
+  * [Bundeskanzlerin](https://www.bundeskanzlerin.de)

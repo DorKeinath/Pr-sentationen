@@ -1,3 +1,6 @@
+# Qualitativer Utilitarismus
+Sollte man einen Shitstorm nicht besser Shamestorm nennen?
+
 # Regelutilitarismus (RU)
 
 ## 

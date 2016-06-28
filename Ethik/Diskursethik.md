@@ -136,6 +136,8 @@ Ausdrücken
 
 Formulieren Sie Ich-Botschaften, die die obigen Politiker hätten verwenden können. <!-- .element: class="frage" -->
 
+Schreiben Sie einen Zettel, den Sie an die Windschutzscheibe von schlecht geparkten Autos pinnen können.  <!-- .element: class="frage" -->
+
 
 
 ## Diskursethik

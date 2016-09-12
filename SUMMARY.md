@@ -1,7 +1,9 @@
 # Inhaltsverzeichnis
 
 * [Einleitung](README.md)
-* Ethik in der Kursstufe
+* Ethik-Kurs (v2)
+	* [Normen_Ethik_und_Ethikunterricht](Ethik/Normen_Ethik_und_Ethikunterricht.md)
+* Ethik in der Kursstufe (v1)
 	* Moralphilosophie
 		* [Lebensweisen, Ethik und Moral](Ethik/Ethisch-moralisch.md)
 		* [Kohlberg](Ethik/Kohlberg.md)

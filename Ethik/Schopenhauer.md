@@ -12,12 +12,12 @@ Du findest dich nach einem anstrengenden Tag, an dessen Ende du dir eine Butterb
 
 
 
-# Mitleid im Nah- und Fernhorizont
+# Affekt vs. Mitleid
 
 | Nah | Fern |
 |---- | -- -|
-| Mitgefühl | Rational |
-| Mitleiden | Denken|
+| Affekt | Mitgefühl |
+| Emotion | Denken|
 | Instinktiv | Bewusst|
 | Aus Affekt | Mit Verstand|
 | Unmittelbar | Mittelbar|

@@ -19,68 +19,11 @@ Immanuel Kant (1724–1804)
 * Gesinnungsethik
 
 
+# Three Minute Philosophy
+[Three Minute Philosophy - Immanuel Kant ](https://www.youtube.com/watch?v=xwOCmJevigw)
 
-# Kants Definition von Aufklärung
-> Aufklärung ist der Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit. Unmündigkeit ist das Unvermögen, sich seines Verstandes ohne Leitung eines anderen zu bedienen. Selbstverschuldet ist diese Unmündigkeit, wenn die Ursache derselben nicht am Mangel des Verstandes, sondern der Entschließung und des Mutes liegt, sich seiner ohne Leitung eines anderen zu bedienen. Sapere aude! Habe Mut, dich deines eigenen Verstandes zu bedienen!
-
-(Berlinische Monatsschrift 1782) <!-- .element: class="rechts" -->
-
-Warum ist es schwer, mündig zu werden? <!-- .element: class="frage" -->
-* Unwissenheit über die vorhandene Bevormundung <!-- .element: class="fragment" -->
-* Faulheit, Trägheit, Gewohnheit <!-- .element: class="fragment" -->
-
-
-
-## Der Kategorische Imperativ
-# Gesetze zum Umgang mit Sklaven
-> Willst du aber Sklaven und Sklavinnen haben, so sollst du sie kaufen von den Völkern, die um euch her sind, und auch von den Beisassen, die als Fremdlinge unter euch wohnen, und von ihren Nachkommen, die sie bei euch in eurem Lande zeugen. Die mögt ihr zu eigen haben und sollt sie vererben euren Kindern zum Eigentum für immer; die sollt ihr Sklaven sein lassen.
-
-(3. Moses 25,44f) <!-- .element: class="fragment rechts" -->
-
-> Wer seinen Sklaven oder seine Sklavin schlägt mit einem Stock, dass sie unter seinen Händen sterben, der soll dafür bestraft werden. Bleiben sie aber einen oder zwei Tage am Leben, so soll er nicht dafür bestraft werden; denn es ist sein Geld.
-
-(2. Mose 21,20f) <!-- .element: class="fragment rechts"-->
-
-
-
-## Der Kategorische Imperativ
-# Mensch-Zweck-Formel
-> Handle so, dass du die Menschheit sowohl in deiner Person als auch in der Person eines jeden anderen jederzeit zugleich als Zweck, niemals bloß als Mittel brauchst.
-
-(Grundlegung zur Metaphysik der Sitten, GMS 429) <!-- .element: class="rechts"-->
-
-
-
-## Der Kategorische Imperativ
-# Grundformel
-> Handle nur nach derjenigen Maxime. durch die du zugleich wollen kannst, dass sie ein allgemeines Gesetz werde.
-
-(GMS 421) <!-- .element: class="rechts" -->
-
-
-
-## Der Kategorische Imperativ
-# Maxime der Flüchtlingspolitik
-
-> Denkt ökonomisch! Bezieht aktiv die wirtschaftliche Lage und die Perspektiven Deutschlands mit ein. Analysiert, wo Deutschland heute wirtschaftlich steht und wie sich das durch den Zuzug sehr vieler Zuwanderer verändern könnte! […] In Wirklichkeit sind die Flüchtlinge nicht Gefahr, sondern Chance. Sie fordern uns, aber sie können uns auch fördern. Sie werden Deutschland verändern und wenn wir klug handeln, dann sogar zu unserem Vorteil. In der Wirtschaft nennt man das eine win-win-Situation.
-
-Marc Beise <!-- .element: class="rechts"-->
-
-[Quelle](https://szshop.sueddeutsche.de/Lesen/Streitschrift/Wir-brauchen-die-Fluechtlinge.html)  <!-- .element: class="rechts"-->
-
-
-
-## Der Kategorische Imperativ
-# Maxime zum Umgang mit Müll
-
-> Die jeweiligen Klassen- und Kursordner kümmern sich nach jeder Unterrichtsstunde um die Tafelreinigung und sorgen dafür, dass der Unterrichtsraum von der Klasse oder vom Kurs immer in ordentlichem Zustand verlassen wird. Dazu gehört auch Fegen und Müllentsorgung.
-
-(Hausordnung des MGB) <!-- .element: class="rechts"-->
-
-# Weitere nach Kant kritische Maximen  <!-- .element: class="fragment"-->
-* Ich gehe regelmäßig zu meiner Prostituierten. <!-- .element: class="fragment"-->
-* Wir verkürzen das G9, damit die Schüler schneller auf den Arbeitsmarkt können. <!-- .element: class="fragment"-->
-
+Gegen welche Ethiken grenzt sich Kant ab? <!-- .element: class="frage" -->
+Welche Aspekte der Ethik Kants werden im Video genannt? <!-- .element: class="frage" -->
 
 
 ## Wen sollte man retten? Wer ist ein Held?
@@ -94,12 +37,98 @@ Marc Beise <!-- .element: class="rechts"-->
 [Frau 2](http://lesoufflecestmavie.e.l.f.unblog.fr/files/2012/11/angela-merkel971265propertyposter.jpg)
 
 ### Gesinnungsethik vs. Folgenethik <!-- .element: class="fragment"-->
-Held =? Person, die jemanden gerettet hat. <!-- .element: class="fragment"-->
+Held =? Person, die jemanden gerettet hat. <!-- .element: class="fragment frage"-->
 * Utilitarismus: Ja, da die Summe des Glücks vermehrt wurde. <!-- .element: class="fragment"-->
 * Kant: Nein, da die rettende Person evtl. aus Neigung gerettet hat. <!-- .element: class="fragment"-->
 
-Wie wäre Kants Definition eines Helden? <!-- .element: class="fragment"-->
+Wie wäre Kants Definition eines Helden? <!-- .element: class="fragment frage"-->
 
+Nennen Sie alternative Begriffe zu "Gesinnung"<!-- .element: class="fragment frage"-->
+
+
+## Der Kategorische Imperativ
+# Universalität
+
+* Eine Ethik soll nicht "wischi-waschi" sein, d.h. sie soll universal sein.
+* Nicht subjektiv
+* Objektiv, unhintergehbar, überall, jederzeit, unabhängig von...
+
+Welche der oben genannten Gesinnungen ist für Kant gut? <!-- .element: class="fragment frage"-->
+Ist Polygamie universell denkbar? <!-- .element: class="fragment frage"-->
+
+
+# Kants Definition von Aufklärung
+> Aufklärung ist der Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit. Unmündigkeit ist das Unvermögen, sich seines Verstandes ohne Leitung eines anderen zu bedienen. Selbstverschuldet ist diese Unmündigkeit, wenn die Ursache derselben nicht am Mangel des Verstandes, sondern der Entschließung und des Mutes liegt, sich seiner ohne Leitung eines anderen zu bedienen. Sapere aude! Habe Mut, dich deines eigenen Verstandes zu bedienen!
+
+(Berlinische Monatsschrift 1782) <!-- .element: class="rechts" -->
+
+Warum ist es schwer, mündig zu werden? <!-- .element: class="frage fragment" -->
+* Unwissenheit über die vorhandene Bevormundung, Instinkt <!-- .element: class="fragment" -->
+* Faulheit, Trägheit, Gewohnheit, mündiges Handeln ist zeitintensiv.  <!-- .element: class="fragment" -->
+* Unmündigkeit führt zu Lob, mündiges Verhalten oft zu Kritik, und man hat Angst vor Folgen aus der Abhängigkeit von Hierarchien. <!-- .element: class="fragment " -->
+
+
+## Der Kategorische Imperativ
+# Gesetze zum Umgang mit Sklaven
+> Willst du aber Sklaven und Sklavinnen haben, so sollst du sie kaufen von den Völkern, die um euch her sind, und auch von den Beisassen, die als Fremdlinge unter euch wohnen, und von ihren Nachkommen, die sie bei euch in eurem Lande zeugen. Die mögt ihr zu eigen haben und sollt sie vererben euren Kindern zum Eigentum für immer; die sollt ihr Sklaven sein lassen.
+
+(3. Moses 25,44f) <!-- .element: class="fragment rechts" -->
+
+> Wer seinen Sklaven oder seine Sklavin schlägt mit einem Stock, dass sie unter seinen Händen sterben, der soll dafür bestraft werden. Bleiben sie aber einen oder zwei Tage am Leben, so soll er nicht dafür bestraft werden; denn es ist sein Geld.
+
+(2. Mose 21,20f) <!-- .element: class="fragment rechts"-->
+
+
+## Der Kategorische Imperativ
+# Mensch-Zweck-Formel
+> Handle so, dass du die Menschheit sowohl in deiner Person als auch in der Person eines jeden anderen jederzeit zugleich als Zweck, niemals bloß als Mittel brauchst.
+
+(Grundlegung zur Metaphysik der Sitten, GMS 429) <!-- .element: class="rechts"-->
+
+
+## Der Kategorische Imperativ
+# Grundformel
+> Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass sie ein allgemeines Gesetz werde.
+
+(GMS 421) <!-- .element: class="rechts" -->
+
+
+## Der Kategorische Imperativ
+# Maxime der Flüchtlingspolitik
+
+> Denkt ökonomisch! Bezieht aktiv die wirtschaftliche Lage und die Perspektiven Deutschlands mit ein. Analysiert, wo Deutschland heute wirtschaftlich steht und wie sich das durch den Zuzug sehr vieler Zuwanderer verändern könnte! […] In Wirklichkeit sind die Flüchtlinge nicht Gefahr, sondern Chance. Sie fordern uns, aber sie können uns auch fördern. Sie werden Deutschland verändern und wenn wir klug handeln, dann sogar zu unserem Vorteil. In der Wirtschaft nennt man das eine win-win-Situation.
+
+Marc Beise <!-- .element: class="rechts"-->
+
+[Quelle](https://szshop.sueddeutsche.de/Lesen/Streitschrift/Wir-brauchen-die-Fluechtlinge.html)  <!-- .element: class="rechts"-->
+
+
+## Der Kategorische Imperativ
+# Maxime zum Umgang mit Müll
+
+> Die jeweiligen Klassen- und Kursordner kümmern sich nach jeder Unterrichtsstunde um die Tafelreinigung und sorgen dafür, dass der Unterrichtsraum von der Klasse oder vom Kurs immer in ordentlichem Zustand verlassen wird. Dazu gehört auch Fegen und Müllentsorgung.
+
+(Hausordnung des MGB) <!-- .element: class="rechts"-->
+
+# Weitere nach Kant kritische Maximen  <!-- .element: class="fragment"-->
+* Ich gehe regelmäßig zu meiner Prostituierten. <!-- .element: class="fragment"-->
+* Wir verkürzen das G9, damit die Schüler schneller auf den Arbeitsmarkt können. <!-- .element: class="fragment"-->
+
+Was wird heutzutage als Zweck an sich behandelt? <!-- .element: class="fragment frage"-->
+
+
+# Kant vs. Utilitarismus
+
+| Utilitarismus					| Kant 										|
+| --------------------------------	|---------------------------------------	|
+| Prinzip: Lust (d.i. Inhalt!)	|Prinzip: KI (formal)					|
+| Nutzen, Folgen 				| Pflicht um seiner selbst Willen 	|
+| Empirismus 					| Idealismus 								|
+
+
+
+## Kant
+# Vertiefung - J2
 
 
 ## Kant
@@ -113,13 +142,6 @@ Wie wäre Kants Definition eines Helden? <!-- .element: class="fragment"-->
 	+ „die Aufbietung aller Mittel“ 
 
 
-
-## Notiere die drei im Video für wichtig erachtete Aspekte der Kantischen Ethik
-# Three Minute Philosophy
-[Three Minute Philosophy - Immanuel Kant ](https://www.youtube.com/watch?v=xwOCmJevigw)
-
-
-
 ## Kant
 #  Das absolut Gute
 * Ist der gute Wille 
@@ -130,14 +152,12 @@ Wie wäre Kants Definition eines Helden? <!-- .element: class="fragment"-->
 	+ Etwas das zur Verwirklichung des guten Willens dienlich ist. 
 
 
-
 #  Friedrich Schiller (1759-1805)
 > Gerne dien‘ ich den Freunden, doch tu‘ ich es leider mit Neigung. Und so wurmt es mich oft, dass ich nicht tugendhaft bin.
 
 > Da ist kein anderer Rat! Du musst suchen, sie zu verachten, und mit Abscheu alsdann tun, wie die Pflicht dir gebeut.
 
 Xenien S. 743, Schulbuch S. 169 <!-- .element: class="rechts" -->
-
 
 
 ##  Maxime, HI, KI
@@ -151,15 +171,13 @@ Xenien S. 743, Schulbuch S. 169 <!-- .element: class="rechts" -->
 	+ Inhaltlich genau bestimmt 
 
 
-
 ##  Maxime, HI, KI
 # Hypothetischer Imperativ (HI)
-* Hypothese = Vorweg-Annahme 
+* Hypothese = Vorweg-Annahme
 * Unter der Annahme des Ziels: Gebot von allen akzeptiert
 * Können Neigungen bedienen
 * Evtl. nicht vernünftig
 * Bsp.: „Entlasse möglichst viele alte Mitarbeiter deiner Firma.“
-
 
 
 ##  Maxime, HI, KI
@@ -167,25 +185,13 @@ Xenien S. 743, Schulbuch S. 169 <!-- .element: class="rechts" -->
 * Überall und jederzeit gültig
 * Ohne Erwägung der Folgen => Ohne Einbeziehung besonderer Bedinungen => Ohne Einb. der Neigung
 * Rein formal, rein vernunftmäßig, betrachtet nur die Form der Handlung
-* Sagt nichts inhaltlich Konkretes 
-
+* Sagt nichts inhaltlich Konkretes
 
 
 ## So kannst du konkret nach dem KI handeln
 #  Anwendung des KI
 * Ist meine Maxime als Imperativ logisch widerspruchsfrei denkbar? 
 * Kann die Maxime in der Anwendung gewollt werden? 
-
-
-
-# Kant vs. Utilitarismus
-
-| Utilitarismus					| Kant 										|
-| --------------------------------	|---------------------------------------	|
-| Prinzip: Lust (d.i. Inhalt!)	|Prinzip: KI (formal)					|
-| Nutzen, Folgen 				| Pflicht um seiner selbst Willen 	|
-| Empirismus 					| Idealismus 								|
-
 
 
 # Kritik an Kant
@@ -201,8 +207,6 @@ Xenien S. 743, Schulbuch S. 169 <!-- .element: class="rechts" -->
 * Der Kategorische Imperativ verlangt Utilitarismus 
 * Ein rein rationaler Mensch hat keine Triebfeder 
 
-
-
 <!--
 # ​Kants 3. Antinomie
 ###These 
@@ -210,12 +214,10 @@ Xenien S. 743, Schulbuch S. 169 <!-- .element: class="rechts" -->
         aus welcher die Erscheinungen der Welt insgesamt abgeleitet
         werden können. Es ist noch eine Kausalität durch Freiheit zur
         Erklärung derselben anzunehmen notwendig." (KrV B472) 
-        
+
 ### Antithese 
 >   "Es gibt keine Freiheit, sondern alles in der Welt geschieht
         lediglich nach Gesetzen der Natur." (KrV B473) 
-
-
 
 ## ​Kants 3. Antinomie
 # Syollogismen
@@ -235,10 +237,15 @@ Xenien S. 743, Schulbuch S. 169 <!-- .element: class="rechts" -->
     P2: Kausalität = zeitlich 
     C: Wie kann etwas Unzeitliches eine Reihe in der Zeit initiieren? 
 
-
-
 ## ​Kants 3. Antinomie
 # Lösung?
 * Freiheit ist denkbar und damit nicht widerlegt, aber auch nicht bewiesen. 
 * Kausalität (Gerade) und Freiheit (Halbgerade) in zwei Dimensionen (zeitlich, unzeitlich), die nicht zusammengeführt werden. Der Wid. In der These verweist auf die intellegible Welt. 
 -->
+
+<!-- ## Aufklärung
+# Meinungen zu Kant
+
+> Das Buch "Kritik der reinen Vernunft" ist das Schwert, mit dem der Deismus hingerichtet worden ist. [Mehr ab "Nachtgeister"](http://www.zeno.org/Literatur/M/Heine,+Heinrich/Essays+I%3A+%C3%9Cber+Deutschland/Zur+Geschichte+der+Religion+und+Philosophie+in+Deutschland/Drittes+Buch)
+
+Heinrich Heine (1797-1856) in "Geschichte der Religion und Philosophie in Deutschland" -->

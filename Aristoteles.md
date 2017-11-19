@@ -5,11 +5,11 @@
 
 ## Streben (*telos*)
 
-* Aristoteles als Wissenschaftler: Er stellt empirisch fest, dass alles strebt. Das Streben ist kein Sollen, sondern das zugrunde liegende Faktum.
-* In dieser Aussage steckt die Vorstellung einer zielorientierten Bewegung *Kinesis*.
+* Empirische FeststTugend (arete)
+* Zielorientierte Bewegung
+  + Kinesis. Von Möglichkeit (potentia) zu Wirklichkeit
+  + Episteme, Wissenschaft durch Deduktion
   + Satz vom Grunde
-  + Von Möglichkeit (*potentia*) über den Akt (*energeia*) zu Wirklichkeit
-
 
 
 ## Das Gute (*agathon*)
@@ -23,16 +23,14 @@ Das Gute wird aufgrund empirischer Beobachtung als Lebensziel definiert; es darf
 
 ## Glück (*eudaimonia*)
 
-Nicht "Glück haben" (*eutachia*), nicht Lust (*hedone*), nicht "Glückseligkeit" (*makariotes*, ist der Gottheit vorbehalten. Gott als Sichselbstgenugsein entfaltet Wirkung auf Religionen). Kein subjektiver Begriff.
+Nicht "Glück haben" (*eutachia*), nicht Lust (*hedone*), nicht "Glückseligkeit" (*makariotes*, ist der Gottheit vorbehalten, Gott als Sichselbstgenugsein entfaltet Wirkung auf Religionen).
 
 Von jedem erreichbar, "auf dem Wege des Lernens und der Übung". Nicht passives Warten, kein Geschenk, sondern aktiv im Handeln zu erlangen.
 
 Schritte zum Glück:
-1. Eine geeignete Lebensform wählen
-2. Grundhaltungen entwickeln (Tugenden, *hexeis*)
-3. Konkretes Handeln bestimmen (Mesotes, *phronesis*)
-
-Vergleiche, unter welchen Bedinungen man bei Aristoteles und beim Christentum ein glückliches Leben führen kann. <!-- .element: class="frage" -->
+1. Eine glückstaugliche Lebensstrategie suchen
+2. Grundhaltungen (Tugenden) entwickeln
+3. Konkretes Handeln bestimmen
 
 
 ## Herstellen vs. Handeln (*poiesis* vs. *praxis*)
@@ -43,42 +41,16 @@ Es gibt zwei Grundformen menschlichen Handelns
 
 > Es ist den edlen und großherzigen Menschen am wenigsten anständig und eigen, bei dem, was sie tun, überall nur den äußeren Nutzen zu suchen.
 
-Gilt für eine Tätigkeit ein Entweder-Oder? <!-- .element: class="frage" Die Antwort ist Nein -->
+Gilt für eine Tätigkeit ein Entweder-Oder? <!-- .element: class="frage" -->
+
+Nein <!-- .element: class="fragment" -->
 
 
-## Tugend (*arete*)
+## Tugend
 
-Leistung, Bestimmung, Eigenschaft.
-
-Situationsgebunden, individuell verschieden.
+Leistung, Bestimmung, Eigenschaft
 
 Was ist die eigentümliche Leistung des Menschen?  <!-- .element: class="frage" -->
-
-
-## Dianoethische und ethische Tugenden
-[Platons Seelenmodell](http://philosophie.jankube.de/platon1.jpg)
-übernimmt Aristoteles nicht. Er kategorisiert in nur zwei Teile.
-
-| Dianoethische Tugenden | Ethische Tugenden |
-| --- | --- |
-| Intellektuelle Tugenden | Charakterliche Tugenden  |
-| Vernunft (*phronesis*) | Haltung (*hexeis*) und Wille |
-| Entstehen durch Lehre und Erziehung | Entstehen durch Gewöhnung |
-
-### Phronesis
-* Zweckmäßige Klugheit. Mitte zwischen Gerissenheit und Einfalt.
-* Tugend zum Finden der Mitte
-* Konkretisiert durch Analyse und Handeln
-* Hält sich an Tugenden
-* Erfahrungsschatz gewonnen in Lehre und Erziehung
-
-> Was ist gut für mich? Was ist gut für die Sache?
-
-### Hexis, habitus
-* Grunddisposition/-haltung, entstanden durch Erfahrung, Gewöhnung und Erziehung (Lob und Tadel, Vorbild und Nachahmung).
-* Beispiel: Tapferkeit (zwischen Feigheit und Tollkühnheit)
-
-
 
 ## Lebensformen: Arbeitsauftrag
 
@@ -90,6 +62,7 @@ Stellen Sie die Hauptaspekte des Textes dar. <!-- .element: class="frage" -->
 * Fällt mir ein Beispiel ein, mit dem ich den Aspekt verdeutlichen kann?
 * Was kritisiert Aristoteles an der Lebensform?
 * Wie begründet Aristoteles den Wert der Lebensform?
+
 
 
 ## Lebensformen
@@ -137,12 +110,6 @@ Ist die arithmetische Mitte gemeint?  <!-- .element: class="frage" -->
 
 Sollte man bei allem die Mitte anstreben? <!-- .element: class="frage" -->
 
-Seht ihr das auch so, dass ältere Menschen mit Erfahrung klüger sind?  <!-- .element: class="frage" -->
-
-Seht ihr den Vorteil, den diese Einstellung für junge Menschen mit sich bringt?  <!-- .element: class="frage" -->
-
-Welches Kriterium führt zur rechten Mitte? <!-- .element: class="frage" -->
-
 
 ### Bios theoretikos
 
@@ -152,25 +119,14 @@ Protreptikos, B 108-110
 > Die Tätigkeit des Geistes ist leben, und jener ist die Tätigkeit
 Metaphysik Buch XII, 1072b 25ff
 
-*Episteme*. Wissenschaft durch Deduktion.
-
 Tugend als Selbstverwirklichung.
 
 Unabhängigkeit trotz dauerhaftem Streben.
 
-#### Würdigung
+Würdigung
 * Gegenkonzept zur damaligen dämonischen Mythologie
 * Ablehnung des Kriteriums der gesellschaftlichen Relevanz.
 * Provokation für Philosophie/Akademien, der Philosoph als apolitisch, im (verbundenbleibenden) Überschreiten ist er am meisten Mensch.
-
-
-#### Syllogismen
-Aussagen haben eine bestimmte
-* Qualität (w/f)
-* Modalität (assertorisch/tatsächlich, apodiktisch/notwendig und problematisch/möglich)
-* Quantität (allgemein, partikular und unbestimmt).
-
-Assertorik kann durch Widerspruchsbeweise (reductio ad impossibile) oder ekthesis (Operation mit Unterbegriff) bewiesen werden.
 
 
 

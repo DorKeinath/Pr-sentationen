@@ -25,12 +25,12 @@ Jean-Jacques Rousseau (1712-1778)<!-- .element: class="rechts" -->
 
 * Extrem auffällig, egozentrisch, provokant, direkt, aktivierend.
 * Nicht gut Freund mit der Kirche, wurde aber nie eingesperrt.
-* Die Institutionen (leer) und die Kunst (oberflächlich) sind für ihn die Gründe für das Schlechte im Menschen. 
+* Die Institutionen (leer) und die Kunst (oberflächlich) sind für ihn die Gründe für das Schlechte im Menschen.
 
 Zitate, für die er bekannt ist:
 
 > Der erste, der ein Stück Land einzäunte und sagte: das gehört mir, war der Gründer des Staates und der Ungleichheit.
- 
+
 > Der Gehorsam gegenüber dem Gesetz, das man sich vorgeschrieben hat, ist Freiheit.
 
 
@@ -60,7 +60,7 @@ Mit welchem Erziehungsstil wird hier erzogen? <!-- .element: class="frage" -->
 # Erziehungsstile - ala Speed Dating
 
 Bilden Sie zwei Tischreihen so, dass Sie sich jeweils einer Person gegenübersitzen. <!-- .element: class="frage" -->
-Besprechnen Sie Ihre jeweiligen Erziehungsstile/konzepte <!-- .element: class="frage" -->
+Besprechen Sie Ihre jeweiligen Erziehungsstile/konzepte <!-- .element: class="frage" -->
 
 * Erläutern Sie sich gegenseitig die Erziehungsstile.
 * Erfinden Sie einen Fall, in dem ein Elternteil auf diese Weise handelt.
@@ -150,7 +150,7 @@ Lesen Sie den Auszug des Textes von <!-- .element: class="frage fragment" data-f
 
 Was ist Ihnen wichtig? Was erhoffen Sie sich von der Zukunft? <!-- .element: class="frage" -->
 
-Lesen Sie den Auszug des Textes von <!-- .element: class="frage" --> [Jesper Juul](https://www.herder.de/leben-shop/aus-erziehung-wird-beziehung-taschenbuch/c-28/p-367/). 
+Lesen Sie den Auszug des Textes von <!-- .element: class="frage" --> [Jesper Juul](https://www.herder.de/leben-shop/aus-erziehung-wird-beziehung-taschenbuch/c-28/p-367/).
 * Welche Probleme der Gesellschaft nimmt Juul wahr? <!-- Fehlender Charakter, leicht manipulierbare Personen -->
 * Nennen Sie die im Text genannten Aspekte guter Erziehung. <!-- Gespräch, Vokabular, "man" -->
 * Möchte Juul, dass Kinder gleich viel Macht haben wie ihre Eltern?

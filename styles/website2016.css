@@ -1,0 +1,14 @@
+.book .book-body .page-wrapper .page-inner section.normal h1 {
+    margin-top: 1em;
+}
+.book .book-body .page-wrapper .page-inner section.normal h2 {
+    margin-bottom: -1.5em;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal h1, h2 {
+    color: indigo;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal blockquote {
+    color: black;
+}
